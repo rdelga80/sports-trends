@@ -1,4 +1,6 @@
-# client
+# SPORTS TRENDS CLIENT
+
+Vue3 Installation, Sass CSS Pre-Processor, Jest Unit Testing, D3 Data Visualizations.
 
 ## Project setup
 ```
