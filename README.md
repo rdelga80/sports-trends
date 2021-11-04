@@ -12,3 +12,7 @@ This is a collaborative project between Ricardo Delgado and Edward Lopez-Ramos. 
 ### Installation
 
 The `client` and `server` folders each have README files for installation. 
+
+`client` - http://localhost:8080/
+
+`server` - http://localhost:8008/docs
