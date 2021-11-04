@@ -1,0 +1,8 @@
+# Environmental Variables
+.env
+
+# Byte-compiled files
+__pycache__/
+
+# VS Code Files
+.vscode/

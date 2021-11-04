@@ -1,0 +1,12 @@
+version: '3.7'
+
+services:
+  server:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: 'sports-stats-api'
+    ports:
+      - '8008:80'
+    volumes:
+      - ./backend/:/backend/
